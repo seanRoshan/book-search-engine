@@ -5,6 +5,12 @@
 
 The Book search engine is an application that is employing MERN (MongoDB, Express, React, Node) Stack and GraphQL. It allows users to Signup, login, logout, search books via Google Book Search API and save their favorite books. They can also see the list of their favorite books and can delete any of the books from the list if they do not like them anymore.
 
+## Deployed Application 
+
+[Book Search Engine](https://infinite-bastion-30683.herokuapp.com)<br />
+
+![Google_search_screenshot](https://user-images.githubusercontent.com/16109054/190893135-15f3361d-3baf-4bb1-9c3a-a020ce443860.jpeg)
+
 
 ## How to start
 
